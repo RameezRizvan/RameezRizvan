@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Rameez Rizvan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameezrizvan&label=Profile%20views&color=0e75b6&style=flat" alt="rameezrizvan" /> </p>
 
 - 🔭 I’m currently working on **Rawscholar**
