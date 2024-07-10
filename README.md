@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rameez Rizvan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rameezrizvan&label=Profile%20views&color=0e75b6&style=flat" alt="rameezrizvan" /> </p>
+
+- 🔭 I’m currently working on **Rawscholar**
+
+- 🌱 I’m currently learning **new skills**
+
+- 👯 I’m looking to collaborate on **Frappe Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RameezRizvan](https://github.com/RameezRizvan)
+
+- 📫 How to reach me **rameezrizvan04@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Pfo851OP76yPVBnKOVFr3STXIAUDiWrm/view?usp=sharing](https://drive.google.com/file/d/1Pfo851OP76yPVBnKOVFr3STXIAUDiWrm/view?usp=sharing)
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxY2R0Zmd2bzFtbHIzbTUydWppYWkwZG8waWkxanR3NDl5Y3IwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 <div align="left">
