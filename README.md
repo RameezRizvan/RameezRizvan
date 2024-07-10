@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **rameezrizvan04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pfo851OP76yPVBnKOVFr3STXIAUDiWrm/view?usp=sharing](https://drive.google.com/file/d/1Pfo851OP76yPVBnKOVFr3STXIAUDiWrm/view?usp=sharing)
 
 
   
@@ -43,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
 
+<div><p><img align="center" padding-top="30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameezrizvan&show_icons=true&locale=en&layout=compact" alt="rameezrizvan" /></p></div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameezrizvan&show_icons=true&locale=en&layout=compact" alt="rameezrizvan" /></p>
+<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameezrizvan&" alt="rameezrizvan" /></p></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameezrizvan&" alt="rameezrizvan" /></p>
