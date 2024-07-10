@@ -42,7 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
 
-<div><p><img align="center" padding-top="30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameezrizvan&show_icons=true&locale=en&layout=compact" alt="rameezrizvan" /></p></div>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=RameezRizvan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RameezRizvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameezrizvan&" alt="rameezrizvan" /></p></div>
+---
+[![](https://visitcount.itsvg.in/api?id=RameezRizvan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
