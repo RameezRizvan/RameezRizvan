@@ -43,6 +43,7 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameezrizvan&show_icons=true&locale=en&layout=compact" alt="rameezrizvan" /></p>
 
