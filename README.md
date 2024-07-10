@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rameez Rizvan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
