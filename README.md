@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameezrizvan&label=Profile%20views&color=0e75b6&style=flat" alt="rameezrizvan" /> </p>
 
-- 🔭 I’m currently working on **Mbuzz Tech**
+- 🔭 I’m currently working at **Mbuzz Tech**
 
 - 🌱 I’m currently learning **new skills**
 
-- 👯 I’m looking to collaborate on **Frappe Projects**
+- 👯 I’m looking to collaborate on **DevOps_Projects**
 
 - 📫 How to reach me **rameezrizvan04@gmail.com**
 
